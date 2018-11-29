@@ -1,0 +1,7 @@
+flask
+flask-jsonpify
+flask-restful
+Flask-SQLAlchemy
+gevent
+gunicorn
+validators
